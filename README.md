@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kumar Aryan Chauhan</h1>
 <h3 align="center">I am a competitive coding enthusiast, nourishing my skills as a full stack developer</h3>
 
-- 🌱 I’m currently learning *Node Js*
+- 🌱 I’m currently learning **Node Js** and **Express**
 
 
 - 💬 Ask me about *JAVA, PYTHON, HTML, CSS, JAVASCRIPT, REACT, VITE, BOOTSTRAP, TAILWIND*
