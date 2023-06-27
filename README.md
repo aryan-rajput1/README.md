@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning *Node Js*
 
-<!-- - 👨‍💻 All of my projects are available at [my profile.](https://rishabhsaklani.com/) -->
 
 - 💬 Ask me about *JAVA, HTML, CSS, JAVASCRIPT, SQL, BOOTSTRAP*
 
