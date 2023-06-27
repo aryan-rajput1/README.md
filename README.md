@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Aryan Chauhan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I am a competitive coding enthusiast, nourishing my skills as a full stack developer</h3>
 
-- 🌱 I’m currently learning *REACT*
+- 🌱 I’m currently learning *Node Js*
 
 <!-- - 👨‍💻 All of my projects are available at [my profile.](https://rishabhsaklani.com/) -->
 
