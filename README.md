@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Node Js** and **Express**
 
 
-- 💬 Ask me about *JAVA, PYTHON, HTML, CSS, JAVASCRIPT, REACT, VITE, BOOTSTRAP, TAILWIND*
+- 💬 Ask me about **JAVA, PYTHON, HTML, CSS, JAVASCRIPT, REACT, VITE, BOOTSTRAP, TAILWIND**
 
 - 📫 reach me at **aryanchauhan2401@gmail.com**
 
