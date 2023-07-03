@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kumar-aryan-chauhan-a1b7051b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumar-aryan-chauhan-a1b7051b8" height="30" width="40" /></a>
-<a href="https://sjqqlm-5173.csb.app/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=oZqPXdVrvoVL&format=png" alt="https://sjqqlm-5173.csb.app/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumar-aryan-chauhan-a1b7051b8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumar-aryan-chauhan-a1b7051b8" height="30" width="40" /></a>
+<a href="https://sjqqlm-5173.csb.app/" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=oZqPXdVrvoVL&format=png" alt="https://sjqqlm-5173.csb.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Tools and Tech:</h3>
